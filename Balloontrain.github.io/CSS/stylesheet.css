@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Digory Doodles';
+    src: url('bcee047124036ff715ab27fb8ded1dc7.eot');
+    src: url('bcee047124036ff715ab27fb8ded1dc7.eot?#iefix') format('embedded-opentype'),
+        url('bcee047124036ff715ab27fb8ded1dc7.woff2') format('woff2'),
+        url('bcee047124036ff715ab27fb8ded1dc7.woff') format('woff'),
+        url('bcee047124036ff715ab27fb8ded1dc7.ttf') format('truetype'),
+        url('bcee047124036ff715ab27fb8ded1dc7.svg#.') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Digory Doodles';
+    src: url('Digory_Doodles_PS.eot');
+    src: url('Digory_Doodles_PS.eot?#iefix') format('embedded-opentype'),
+        url('Digory_Doodles_PS.woff2') format('woff2'),
+        url('Digory_Doodles_PS.woff') format('woff'),
+        url('Digory_Doodles_PS.ttf') format('truetype'),
+        url('Digory_Doodles_PS.svg#Digory_Doodles_PS') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

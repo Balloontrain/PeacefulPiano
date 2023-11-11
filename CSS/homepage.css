@@ -1,0 +1,50 @@
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  color: #333;
+  text-shadow: none; 
+  /* Prevent inheritance from `body` */
+}
+body {
+    text-shadow: 0 .05rem .1rem #E7CBA9;
+    color: #272016; 
+    background-color: #F5F3E7 ;
+    font-family: "Josefin Sans", Arial, Helvetica, sans-serif;
+    height: 100%;
+}
+
+
+h1 {
+  display: block;
+  font-size: 2em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+.cover-container {
+  max-width: 42em;
+}
+/*
+ * Header
+ */
+.nav-masthead .nav-link {
+  font-weight: 700;
+  color: #5c1d06;
+  background-color: transparent;
+  border-bottom: .25rem solid transparent;
+  font-family: "Josefin Sans", Arial, Helvetica, sans-serif;
+}
+.nav-masthead .nav-link:hover,
+.nav-masthead .nav-link:focus {
+  border-bottom-color: rgba(255, 255, 255, .25);
+}
+.nav-masthead .nav-link + .nav-link {
+  margin-left: 3rem;
+}
+.nav-masthead .active {
+  color: #c68335;
+  border-bottom-color: #fff;
+}
